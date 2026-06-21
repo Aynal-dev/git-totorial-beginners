@@ -1,0 +1,14 @@
+{
+  "name": "git-tutorial-for-beginners",
+  "version": "1.0.0",
+  "description": "This totorial will cover basic to advance git syllabus",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md.Aynal Haque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
